@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+prop:
+  name: hello
+  array:
+    -
+        id: 123
+        number: qwe123
+    -
+        id: 345
+        number: rty456
